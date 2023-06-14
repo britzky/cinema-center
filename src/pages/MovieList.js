@@ -7,7 +7,7 @@ import { useFetch, useTitle } from '../hooks'
 export const MovieList = ({ apiPath, title }) => {
   const { data: movies } = useFetch(apiPath)
   
-  useTitle()
+  useTitle(title)
 
   return (
     <main>

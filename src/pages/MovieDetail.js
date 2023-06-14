@@ -27,7 +27,7 @@ export const MovieDetail = () => {
     fetchMovie()
   })
   
-  useTitle()
+  useTitle(movie.title)
 
   return (
     <main>
