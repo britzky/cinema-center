@@ -1,5 +1,3 @@
-import ScrollToTop from './ScrollToTop';
-
 //layout
 export { Header } from './Header';
 export { Footer } from './Footer';
