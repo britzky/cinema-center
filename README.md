@@ -18,7 +18,7 @@ This movie catalog is a web application built for movie enthusiasts. It pulls da
 - React
 - Tailwind CSS
 - Flowbite
-- REact Router Dom
+- React Router Dom
 - TMDB API
 
 ## Contact
